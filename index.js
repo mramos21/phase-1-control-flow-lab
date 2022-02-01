@@ -25,6 +25,3 @@ function switchOnCharmFromTip(tip){
       return 'Bye.'  
   }
 }
-
-
-console.log(ternaryCheckCity('Pittsburg'));
